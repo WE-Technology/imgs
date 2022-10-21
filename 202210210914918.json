@@ -1,0 +1,36 @@
+{
+    "name": "GOLDChainToken",
+    "logoURI": "https://godechain.com/template/en/images/G.svg",
+    "keywords": [
+    "private"
+    ],
+    "timestamp": "2022-10-21T01:40:34.305Z",
+    "tokens": [
+    {
+    "chainId": 5500,
+    "address": "0x70A98D12CB394EBCFfef87987624BBd60d8E7d9E",
+    "name": "WETH",
+    "symbol": "WETH",
+    "decimals": 18
+    },
+    {
+    "chainId": 5500,
+    "address": "0xA73e0182A85285C6a88F492Fa930A6b1CC0D0A58",
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "decimals": 18
+    },
+    {
+    "chainId": 5500,
+    "address": "0x654Acb761be5D22d93B19Ba417e536c0d435015c",
+    "name": "MTSToken",
+    "symbol": "MTS",
+    "decimals": 18
+    }
+    ],
+    "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+    }
+}
